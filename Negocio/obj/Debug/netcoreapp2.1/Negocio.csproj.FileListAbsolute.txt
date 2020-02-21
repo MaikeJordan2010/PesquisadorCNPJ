@@ -1,0 +1,16 @@
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\bin\Debug\netcoreapp2.1\Negocio.deps.json
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\bin\Debug\netcoreapp2.1\Negocio.runtimeconfig.json
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\bin\Debug\netcoreapp2.1\Negocio.runtimeconfig.dev.json
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\bin\Debug\netcoreapp2.1\Negocio.dll
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\bin\Debug\netcoreapp2.1\Negocio.pdb
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\bin\Debug\netcoreapp2.1\Modelo.dll
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\bin\Debug\netcoreapp2.1\Persistencia.dll
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\bin\Debug\netcoreapp2.1\Modelo.pdb
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\bin\Debug\netcoreapp2.1\Persistencia.pdb
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\obj\Debug\netcoreapp2.1\Negocio.csprojAssemblyReference.cache
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\obj\Debug\netcoreapp2.1\Negocio.AssemblyInfo.cs
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\obj\Debug\netcoreapp2.1\Negocio.csproj.CopyComplete
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\obj\Debug\netcoreapp2.1\Negocio.dll
+C:\Users\mjordan\source\repos\TesteGrupoGPS\Negocio\obj\Debug\netcoreapp2.1\Negocio.pdb
